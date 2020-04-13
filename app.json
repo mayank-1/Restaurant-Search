@@ -19,9 +19,8 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "tech.way2tec.food-search",
-      "versionCode": 1,
-      "supportsTablet": true
+      "package": "tech.way2tec.foodsearch",
+      "versionCode": 1
     }
   }
 }
